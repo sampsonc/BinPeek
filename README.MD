@@ -4,7 +4,7 @@ BinPeek is an application that checks to see if a Windows application is managed
 
 ## Code Example
 
-binpeek.exe <filename>
+binpeek.exe &lt;filename&gt;
 
 ## URL
 
