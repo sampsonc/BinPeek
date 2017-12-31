@@ -2,7 +2,7 @@
 
 BinPeek is an application that checks to see if a Windows application is managed(.NET) or unmanaged(native).  It handles x86 and x84 executables.
 
-## Code Example
+## Usage
 
 binpeek.exe &lt;filename&gt;
 
